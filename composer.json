@@ -1,0 +1,13 @@
+{
+    "name": "betsolutions/betsolutions-casino-php-sdk-examples",
+    "require": {
+        "betsolutions/casino-sdk": "^1.1",
+        "php": ">=7.3.0"
+    },
+    "authors": [
+        {
+            "name": "tamaz bagdavadze",
+            "email": "t.bagdavadze@betsolutions.com"
+        }
+    ]
+}
